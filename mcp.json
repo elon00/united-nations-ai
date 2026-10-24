@@ -1,10 +1,27 @@
 {
-  "name": "sphinc",
-  "ticker": "SPHI",
-  "category": "Post_Quantum",
+  "name": "united-nations-ai",
+  "ticker": "UNAI",
+  "title": "United Nations AI",
   "tools": [
-    { "name": "query_conway_state", "description": "Fetches current cellular automaton lattice" },
-    { "name": "execute_x402_settlement", "description": "Executes HTTP 402 micro-settlement" },
-    { "name": "fetch_quicknode_rpc", "description": "Queries QuickNode multi-chain endpoint" }
+    {
+      "name": "monitor_ceasefire_violations",
+      "description": "Analyzes satellite telemetry and IoT border sensors for ceasefire breach detection"
+    },
+    {
+      "name": "dispatch_unicef_emergency_relief",
+      "description": "Triggers zero-leakage direct nutritional and educational micro-grants for children in crisis zones"
+    },
+    {
+      "name": "evaluate_who_epidemic_signal",
+      "description": "Aggregates regional health dockets for global pandemic early-warning signals"
+    },
+    {
+      "name": "enforce_ilo_fair_wage_standards",
+      "description": "Audits multinational corporate supply chains to eliminate child labor and ensure fair compensation"
+    },
+    {
+      "name": "verify_wfp_grain_supply_chain",
+      "description": "Verifies cross-border grain delivery to refugee distribution centers before releasing payment escrow"
+    }
   ]
 }
